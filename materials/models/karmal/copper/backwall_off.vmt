@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/karmal/copper/backwall_off"
+	"$bumpmap" "models/karmal/copper/backwall_nrm"
+	
+	"$phong" "1"
+	"$phongexponenttexture" "models/karmal/copper/backwall_phn"
+	"$phongboost" "0.5"
+	"$phongfresnelranges" "[1 1 1]"
+	
+	"$nodecal" "1"
+	"$surfaceprop" "Metal"
+}

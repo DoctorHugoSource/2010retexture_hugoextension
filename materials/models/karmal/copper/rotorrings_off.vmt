@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture"			"models/doctorwho1200/copper/rotorrings"
+	"$bumpmap"				"models/karmal/copper/rotorrings_n"
+	"$nodecal"				"1"
+	"$model"				"1"
+
+	"$envmap"				"models/vtalanov98/tardis2010/env_interior.hdr"
+	"$envmaptint"			"[0.001 0.0085 0.0085]"
+
+	"$phong"				"1"
+	"$phongexponent"		"30"
+	"$phongboost"			"2"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+
+	"$rimlight"				"1"
+	"$rimlightexponent"		"2"
+	"$rimlightboost"		"0.2"
+
+	"$surfaceprop"			"metal"
+}

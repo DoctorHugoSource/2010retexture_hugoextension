@@ -1,0 +1,30 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			"models/doctorwho1200/copper/metalparts"
+	"$bumpmap"				"models/karmal/copper/metalparts_n"
+	"$nodecal"				"1"
+	"$model"				"1"
+
+	"$detail"				"detail/metal_detail_01"
+	"$detailscale"			"4.283"
+	"$detailblendfactor"	"0.65"
+	"$detailblendmode"		"0"
+
+	"$envmap" "models/karmal/copper/walls_env"
+	"$envmapcontrast" "0.6"
+	"$envmaptint" "[0.07 0.04 0.01]"
+
+	"$surfaceprop" "Metal"
+
+	$phong 								1
+    $phongexponent 						15
+    $phongboost 						1
+    $phongtint 							"[25 12 3]"
+//    $halflambert 						1
+	$phongfresnelranges 				"[0.05 0.5 1]"  //The angle of the dangle
+
+	$rimlight 							"1"
+	$rimlightexponent 					"25" //Range
+//	$rimlightboost 						"1"
+
+}

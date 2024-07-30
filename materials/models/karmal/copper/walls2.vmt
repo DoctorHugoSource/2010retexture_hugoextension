@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/copper/walls2"
+	"$bumpmap"    "models/karmal/copper/walls2_n"
+	"$envmap" "models/karmal/copper/walls_env"
+	"$envmaptint" "[0.1 0.09 0.05]"
+	"$envmapfresnel" "0.15"
+	"$nodecal" "1"
+	"$surfaceprop" "Metal"
+
+	$phong 								1
+	$phongexponent 							65
+	$phongboost 							0.6
+	$phongtint 							"[25 12 3]"
+	$phongfresnelranges 						"[0.05 0.5 0.1]"
+
+	$rimlight 							"1"
+	$rimlightexponent 						"25"
+}

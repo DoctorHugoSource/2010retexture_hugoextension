@@ -1,0 +1,27 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/karmal/copper/gramophone"
+	"$bumpmap" "models/karmal/copper/gramophone_n"
+	"$envmap" 	"models/karmal/copper/gramophone_env"
+	"$envmaptint" "[0.05 0.02 0.01]"
+	"$nodecal" "1"
+	"$surfaceprop" "Metal"
+	"$color2" "[1.5 1 1]"
+
+	"$detail"				"detail/metal_detail_01"
+	"$detailscale"			"2.5"
+	"$detailblendfactor"	"0.5"
+	"$detailblendmode"		"0"
+
+	$phong 								1
+	$phongexponent 						15
+	$phongboost 						0.25
+	$phongtint 							"[1.5 1.25 1.01]"
+	$halflambert 						1
+	$phongfresnelranges 				"[1 1 1]"
+
+	$rimlight 							"1"
+	$rimlightexponent 					"25"
+	$rimlightboost 						"15"
+}
+

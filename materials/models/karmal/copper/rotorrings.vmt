@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/copper/rotorrings"
+	"$bumpmap"    "models/karmal/copper/rotorrings_n"
+	"$envmap" 	"models/vtalanov98/tardis2010/env_interior.hdr"
+	"$envmapcontrast" "0.5"
+	"$envmaptint" "[0.075 0.075 0.075]"
+	"$nodecal" "1"
+	"$surfaceprop" "Metal"
+	"$color2" "[2 2 2]"
+
+	$phong 								1
+    $phongexponent 						15
+    $phongboost 						2
+    $phongtint 							"[15 12 3]"
+//    $halflambert 						1
+	$phongfresnelranges 				"[0.05 0.5 1]"  //The angle of the dangle
+
+	$rimlight 							"1"
+	$rimlightexponent 					"25" //Range
+//	$rimlightboost 						"1"
+}

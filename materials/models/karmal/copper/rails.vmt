@@ -1,0 +1,25 @@
+"VertexlitGeneric"
+{
+	"$basetexture"			"models/doctorwho1200/copper/rails"
+	"$bumpmap"				"models/doctorwho1200/copper/normal"
+	"$nodecal"				"1"
+	"$model"				"1"
+	"$color2"				"[2.5 2.5 2.5]"
+
+	"$detail"				"detail/metal_detail_01"
+	"$detailscale"			"12"
+	"$detailblendfactor"	"0.25"
+	"$detailblendmode"		"0"
+
+	"$phong"				"1"
+	"$phongexponent"		"30"
+	"$phongboost"			"1"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+
+	"$rimlight"				"1"
+	"$rimlightexponent"		"2"
+	"$rimlightboost"		"0.2"
+
+
+	"$surfaceprop"			"metal"
+}

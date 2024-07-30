@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture"			"models/doctorwho1200/copper/black"
+	"$nodecal"				"1"
+	"$model"				"1"
+
+	"$surfaceprop"			"metal"
+}

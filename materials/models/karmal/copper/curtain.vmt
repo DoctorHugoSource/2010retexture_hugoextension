@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture"			"models/karmal/copper/curtain"
+	"$bumpmap"				"models/karmal/copper/curtain_n"
+	"$nodecal"				"1"
+	"$model"				"1"
+	"$color2"				"[2 1.5 0.75]"
+
+	$phong 								1
+   	$phongexponent 						35
+  	$phongboost 						0.5
+  	$phongtint 							"[3 3 3]"
+	$phongfresnelranges 				"[0.05 0.5 1]"
+
+
+	"$surfaceprop"			"carpet"
+}

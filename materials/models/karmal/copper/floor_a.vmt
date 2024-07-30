@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture"			"models/doctorwho1200/copper/floor_a"
+	"$bumpmap"				"models/karmal/copper/floor_normal"
+	"$nodecal"				"1"
+	"$model"				"1"
+	"$color2"				"[3.5 3.5 3.5]"
+
+	"$phong"				"1"
+	"$phongexponent"		"10"
+	"$phongboost"			"30"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+
+	"$surfaceprop"			"Wood_Solid"
+}

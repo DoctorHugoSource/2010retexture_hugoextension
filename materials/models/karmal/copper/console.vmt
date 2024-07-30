@@ -1,0 +1,24 @@
+"VertexlitGeneric"
+{
+	"$basetexture"			"models/karmal/copper/console"
+	"$bumpmap"				"models/doctorwho1200/copper/console_n"
+	"$nodecal"				"1"
+	"$model"				"1"
+	"$color2"				"[1.5 1.5 1.5]"
+
+	"$detail"				"detail/plaster_detail_01"
+	"$detailscale"			"6.783"
+	"$detailblendfactor"	"0.8"
+	"$detailblendmode"		"0"
+
+	$phong 							1
+	$phongexponent 						15
+	$phongboost 						0.5
+	$phongtint 						"[25 12 3]"
+	$phongfresnelranges 					"[0.05 0.5 1]"
+
+	$rimlight 							"1"
+	$rimlightexponent 						"25"
+
+	"$surfaceprop"			"sand"
+}
